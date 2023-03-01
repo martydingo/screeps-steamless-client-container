@@ -1,0 +1,1 @@
+docker buildx build --push --platform linux/amd64 --tag martydingo/screeps-steamless-client-container:latest .

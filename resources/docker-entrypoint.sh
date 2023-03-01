@@ -1,0 +1,1 @@
+npx screeps-steamless-client --package /usr/local/lib/screeps-steamless-client/package.nw
